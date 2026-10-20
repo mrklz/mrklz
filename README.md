@@ -20,11 +20,11 @@
 
 ## Инструменты
 
-<img src="https://imgur.com" width="300" alt="C, C++, Python, Git, Markdown" />
+🔵 **C** / 🛠️ **C++** / 🐍 **Python** / 🗂️ **Git** / 📝 **Markdown**
 
 ## Связь
 
-[![Telegram](https://imgur.com)](https://t.me)
+💬 [Telegram](https://t.me/mmmrklz)
 
 
 
