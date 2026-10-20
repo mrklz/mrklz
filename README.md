@@ -20,9 +20,11 @@
 
 ## Инструменты
 
-![C](https://shields.io) ![C++](https://shields.io) ![Python](https://shields.io) ![Git](https://shields.io) ![Markdown](https://shields.io)
-
+<img src="https://jsdelivr.net" width="40" height="40" alt="C" /> <img src="https://jsdelivr.net" width="40" height="40" alt="C++" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Python" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Git" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Markdown" />
 
 ## Связь
 
-[![Telegram](https://shields.io)](https://t.me/mmmrklz)
+<a href="https://t.me" target="_blank">
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Telegram" />
+</a>
+
