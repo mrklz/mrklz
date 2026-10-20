@@ -23,3 +23,6 @@
 ![C](https://shields.io) ![C++](https://shields.io) ![Python](https://shields.io) ![Git](https://shields.io) ![Markdown](https://shields.io)
 
 
+## Связь
+
+[![Telegram](https://shields.io)](https://t.me/mmmrklz)
