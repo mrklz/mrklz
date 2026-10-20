@@ -1,16 +1,25 @@
-## Hi there 👋
+# mrklz
 
-<!--
-**mrklz/mrklz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀
 
-Here are some ideas to get you started:
+# mrklz
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@mrklz / начинающий программист / 
+
+## Обо мне
+
+Привет! Я занимаюсь программированием и развиваю свои навыки в написании эффективного кода. Изучаю низкоуровневые механизмы в C/C++ и автоматизирую задачи с помощью Python. В этом репозитории собрано моё портфолио, учебные проекты и эксперименты с алгоритмами.
+
+## Проекты
+
+**C_codes** <sub>Сборник программ, алгоритмов и базовых конструкций на языке C.</sub>
+
+**Cpp_codes** <sub>Проекты и практические задачи, написанные на C++ с использованием ООП.</sub>
+
+**python** <sub>Скрипты, автоматизация и решения задач на языке Python.</sub>
+
+## Инструменты
+
+![C](https://shields.io) ![C++](https://shields.io) ![Python](https://shields.io) ![Git](https://shields.io) ![Markdown](https://shields.io)
+
+
